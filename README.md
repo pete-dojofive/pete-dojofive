@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pete-dojofive
-- 👀 I’m interested in everything bit twiddling to django (you gotta draw a line somewhere!)
-- 🌱 I’m currently learning github actions
+- 👀 I’m interested in everything from bit twiddling to django (you gotta draw a line somewhere!)
+- 🌱 I’m currently learning github actions and IBM POWER server configuration
 - 💞️ I’m looking to collaborate on ... not sure yet ...
 - 📫 How to reach me ...
 
